@@ -5,7 +5,10 @@ h1{
     background-color:purple;
     text-align:center;
 }
-p{
+p{ 
+    #cafes {
+         width: 100%;
+    }
     color:purple
     font-family:
     font-size: 50px;
