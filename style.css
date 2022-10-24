@@ -11,10 +11,10 @@ h1{
          width: 100%;
     }
 p {
-    color:purple
+    color:purple;
     font-family:
     font-size: 50px;
-    background-color:light brown;
+    background-color:-webkit-scrollbar-button;
     text-align:center;
 
 }
