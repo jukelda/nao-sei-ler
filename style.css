@@ -18,5 +18,8 @@ p {
     text-align:center;
 
 }
-container
+.container{
+    width:10%;
+    margin:0 auto
+}
  
